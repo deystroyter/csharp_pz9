@@ -1,0 +1,10 @@
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 9\FedorovAD_Pz9\bin\Debug\FedorovAD_Pz9.exe.config
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 9\FedorovAD_Pz9\bin\Debug\FedorovAD_Pz9.exe
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 9\FedorovAD_Pz9\bin\Debug\FedorovAD_Pz9.pdb
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 9\FedorovAD_Pz9\obj\Debug\FedorovAD_Pz9.csprojAssemblyReference.cache
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 9\FedorovAD_Pz9\obj\Debug\FedorovAD_Pz9.Properties.Resources.resources
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 9\FedorovAD_Pz9\obj\Debug\FedorovAD_Pz9.csproj.GenerateResource.cache
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 9\FedorovAD_Pz9\obj\Debug\FedorovAD_Pz9.csproj.CoreCompileInputs.cache
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 9\FedorovAD_Pz9\obj\Debug\FedorovAD_Pz9.exe
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 9\FedorovAD_Pz9\obj\Debug\FedorovAD_Pz9.pdb
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 9\FedorovAD_Pz9\obj\Debug\FedorovAD_Pz9.MainForm.resources
